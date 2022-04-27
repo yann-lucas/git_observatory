@@ -3,3 +3,4 @@
 - Lyot stop
 - detector optics
 - detector
+- New one
